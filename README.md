@@ -4,9 +4,9 @@
  <img align="right" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BsNnFwc3J1aGJ0ZWxubTlyeGI4N2NhOThrZjk5MHIwcXlkYWZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaspar24&label=Profile%20views&color=0e75b6&style=flat" alt="gaspar24" /> </p>
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **C/C++ programming**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C/C++**
 
 - 📫 How to reach me **mariansacaliuc@gmail.com**
 
